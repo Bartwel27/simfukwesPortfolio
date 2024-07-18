@@ -6,12 +6,6 @@ Welcome to Simfukwe's Portfolio!
 
 I'm Prince, a passionate developer and tech enthusiast with expertise in mobile, web, and desktop development, cyber security, and more. This portfolio showcases a selection of my projects, demonstrating my skills and experience in a variety of technologies and languages.
 
-*Projects:*
-
-- [Project 1]: A mobile app built with React Native and JavaScript
-- [Project 2]: A web application built with HTML, CSS, and JavaScript
-- and ETC
-
 *Skills:*
 
 - Programming languages: Python, Java, C++, JavaScript
@@ -20,5 +14,5 @@ I'm Prince, a passionate developer and tech enthusiast with expertise in mobile,
 
 *Contact:*
 
-- Email: [princesimfukwe01@gmail.com]
-- Mobile phone: [+260973077465]
+- Email: princesimfukwe01@gmail.com
+- Mobile phone: +260 974907624
